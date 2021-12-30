@@ -1,0 +1,15 @@
+C:\Users\hp\Documents\PS-C_Sharp-Interfaces-and-generics\C# interfaces\bin\Debug\net6.0\C#-interfaces.exe
+C:\Users\hp\Documents\PS-C_Sharp-Interfaces-and-generics\C# interfaces\bin\Debug\net6.0\C#-interfaces.deps.json
+C:\Users\hp\Documents\PS-C_Sharp-Interfaces-and-generics\C# interfaces\bin\Debug\net6.0\C#-interfaces.runtimeconfig.json
+C:\Users\hp\Documents\PS-C_Sharp-Interfaces-and-generics\C# interfaces\bin\Debug\net6.0\C#-interfaces.dll
+C:\Users\hp\Documents\PS-C_Sharp-Interfaces-and-generics\C# interfaces\bin\Debug\net6.0\ref\C#-interfaces.dll
+C:\Users\hp\Documents\PS-C_Sharp-Interfaces-and-generics\C# interfaces\bin\Debug\net6.0\C#-interfaces.pdb
+C:\Users\hp\Documents\PS-C_Sharp-Interfaces-and-generics\C# interfaces\obj\Debug\net6.0\C#-interfaces.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\PS-C_Sharp-Interfaces-and-generics\C# interfaces\obj\Debug\net6.0\C#-interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\PS-C_Sharp-Interfaces-and-generics\C# interfaces\obj\Debug\net6.0\C#-interfaces.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\PS-C_Sharp-Interfaces-and-generics\C# interfaces\obj\Debug\net6.0\C#-interfaces.AssemblyInfo.cs
+C:\Users\hp\Documents\PS-C_Sharp-Interfaces-and-generics\C# interfaces\obj\Debug\net6.0\C#-interfaces.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\PS-C_Sharp-Interfaces-and-generics\C# interfaces\obj\Debug\net6.0\C#-interfaces.dll
+C:\Users\hp\Documents\PS-C_Sharp-Interfaces-and-generics\C# interfaces\obj\Debug\net6.0\ref\C#-interfaces.dll
+C:\Users\hp\Documents\PS-C_Sharp-Interfaces-and-generics\C# interfaces\obj\Debug\net6.0\C#-interfaces.pdb
+C:\Users\hp\Documents\PS-C_Sharp-Interfaces-and-generics\C# interfaces\obj\Debug\net6.0\C#-interfaces.genruntimeconfig.cache

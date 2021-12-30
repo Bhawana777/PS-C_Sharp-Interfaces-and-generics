@@ -1,0 +1,15 @@
+C:\Users\hp\Documents\PS-C_Sharp-Interfaces-and-generics\C# generics\bin\Debug\net6.0\C#-generics.exe
+C:\Users\hp\Documents\PS-C_Sharp-Interfaces-and-generics\C# generics\bin\Debug\net6.0\C#-generics.deps.json
+C:\Users\hp\Documents\PS-C_Sharp-Interfaces-and-generics\C# generics\bin\Debug\net6.0\C#-generics.runtimeconfig.json
+C:\Users\hp\Documents\PS-C_Sharp-Interfaces-and-generics\C# generics\bin\Debug\net6.0\C#-generics.dll
+C:\Users\hp\Documents\PS-C_Sharp-Interfaces-and-generics\C# generics\bin\Debug\net6.0\ref\C#-generics.dll
+C:\Users\hp\Documents\PS-C_Sharp-Interfaces-and-generics\C# generics\bin\Debug\net6.0\C#-generics.pdb
+C:\Users\hp\Documents\PS-C_Sharp-Interfaces-and-generics\C# generics\obj\Debug\net6.0\C#-generics.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\PS-C_Sharp-Interfaces-and-generics\C# generics\obj\Debug\net6.0\C#-generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\PS-C_Sharp-Interfaces-and-generics\C# generics\obj\Debug\net6.0\C#-generics.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\PS-C_Sharp-Interfaces-and-generics\C# generics\obj\Debug\net6.0\C#-generics.AssemblyInfo.cs
+C:\Users\hp\Documents\PS-C_Sharp-Interfaces-and-generics\C# generics\obj\Debug\net6.0\C#-generics.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\PS-C_Sharp-Interfaces-and-generics\C# generics\obj\Debug\net6.0\C#-generics.dll
+C:\Users\hp\Documents\PS-C_Sharp-Interfaces-and-generics\C# generics\obj\Debug\net6.0\ref\C#-generics.dll
+C:\Users\hp\Documents\PS-C_Sharp-Interfaces-and-generics\C# generics\obj\Debug\net6.0\C#-generics.pdb
+C:\Users\hp\Documents\PS-C_Sharp-Interfaces-and-generics\C# generics\obj\Debug\net6.0\C#-generics.genruntimeconfig.cache
